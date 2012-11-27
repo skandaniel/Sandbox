@@ -10,6 +10,8 @@ public class Main {
 		Calculator calc = new Calculator();
 		System.out.println(calc.multiplication(10, 4));
 		
+		System.out.println(calc.sum(10, 4));
+		
 		
 
 	}
