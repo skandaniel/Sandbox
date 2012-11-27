@@ -12,6 +12,8 @@ public class Main {
 		
 		System.out.println(calc.sum(10, 4));
 		
+		System.out.println(calc.sum(10, 104));
+		
 		
 
 	}
